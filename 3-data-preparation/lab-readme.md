@@ -22,6 +22,52 @@ I made a local copy of a sample JSON user data set here:
 
 ### Approach
 Use CloudGuru AWS Sandbox to build the data Transformation
+Use Athena to query the data collected to answer business sections
+Use an AWS Glue job to run Apache Spark code to transform the data to CSV format
+
+#### S3
+- bucket name: `fab-bucket-user-data`
+- user data file: `user-data.json`
+
+
+### Data Catalog with AWS Glue for S3 Querying
+#### Crawler
+- crawler name: `fab-crawler-user-data`
+- data store: `S3`
+- path: `s3://fab-bucket-user-data`
+- create IAM Role: `AWSGlueServiceRole-FabUserDataRole`
+Notes: To create an IAM role, you must have CreateRole, CreatePolicy, and AttachRolePolicy permissions.
+This is where I had issues with TechOps account and why I use a sandbox account
+- Frequency: `Run on demand`
+- Database: `fab-user-database` (new)  
+We then run the crawler that now reaches to S3 and tries to determine a schema from our data.
+It then creates a table that we can review
+
+#### Table
+A new table was created by the Crawler
+- name: `fab_bucket_user_data`
+- record count: 1439
+- Schema:
+```
+Column name
+Data  type  Partition key Comment
+1 first string
+2 last  string
+3 age int
+4 gender  string
+5 latitude  double
+6 longitude double
+```
+
+We c#### Athena
+- query results bucket: `s3://fab-bucket-user-data/athena-result/`
+- Database: `fab-user-database` (created via the aws glue crawler)
+- Table: `fab_bucket_user_data`
+- Sample query:
+```
+select *
+from fab_bucket_user_data
+```
 
 
 ### Reference
