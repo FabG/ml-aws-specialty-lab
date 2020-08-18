@@ -59,7 +59,7 @@ Data  type  Partition key Comment
 6 longitude double
 ```
 
-We c#### Athena
+#### Athena
 - query results bucket: `s3://fab-bucket-user-data/athena-result/`
 - Database: `fab-user-database` (created via the aws glue crawler)
 - Table: `fab_bucket_user_data`
@@ -68,6 +68,25 @@ We c#### Athena
 select *
 from fab_bucket_user_data
 ```
+Additional queries:
+- [age-grouping.sql](scripts/age-grouping.sql)
+- [gender-percentage.sql](scripts/gender-percentage.sql)
+- [most-common-ages.sql](scripts/most-common-ages.sql)
+
+
+Now we want to create an ETL job to transform our data from JSON to CSV
+We will use again AWS glue
+
+#### AWS Glue to Transformation
+- name: `fab-user-data-transform-job`
+- type: `Spark`
+- script file name: `fab-user-data-transform-job`
+- create table in data target: `S3` => format: `CSV`
+=> AWS Glue will create some pySpark code for us
+
+In the script, insert code to map gender for male=1 and female-0
+
+In the end, we get the CSV file as planned in S3, with the gender mapping.
 
 
 ### Reference
