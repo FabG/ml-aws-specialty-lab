@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "s3://fab-car/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
