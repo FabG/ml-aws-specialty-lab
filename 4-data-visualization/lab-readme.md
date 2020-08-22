@@ -117,3 +117,5 @@ We then split that into 3 smaller dataframes, one per car type (Corvette, Mustan
 We now can answer the business question about upper quartile.
 We can see some plots for Mustang, with several cars with a lots of horsepower that is lying outside of the others.
 It could be anomalies or outliers.
+
+![box plot](images/sagemaker-notebook-6.png)
