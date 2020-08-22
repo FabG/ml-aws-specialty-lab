@@ -97,7 +97,23 @@ Year that corvette got sold over $100k?
 => 2005
 ![cars-year](images/cars-year.png)
 
-Box plots with Quicksight - will do it with Jupyter libraries..
+Box plots with Quicksight - will do it with Jupyter libraries...
 
 
 #### Approach 2 with Jupyter Notebook
+Here is the [box-plot notebook](4-data-visualization/box-plot-example.ipynb)
+We can launch from SageMaker
+
+Libraries we will be using are:
+- `boto3` - amazon sdk to interact with AWS services
+- `pandas`
+- `get_execution_role` to use the IAM role associated with this notebook
+- `maptplotlib` to plot the dataset
+
+We load the data from S3 into a dataframe.
+
+We then split that into 3 smaller dataframes, one per car type (Corvette, Mustang and Camaro). Then we plot that data with the matplotlib.plt function.
+
+We now can answer the business question about upper quartile.
+We can see some plots for Mustang, with several cars with a lots of horsepower that is lying outside of the others.
+It could be anomalies or outliers.
