@@ -9,7 +9,7 @@ We can use the ground truth dataset used in the previous lab. This data has been
 
 
 
-##### Approach
+##### Things to think of
 What we want to find out and questions to answer:
 - build a model to dertermine weather newly reported UFO sightin are legitimate or not.
 - Mr K requires us to be at least 90% accurate
@@ -22,6 +22,31 @@ Final results:
 - model artifact stored in S3
 - present model valiation metrics (accuracy, recall, f1 score,...)
 - present model error rate (decrease as we are training our model)
+
+
+
+##### Approach
+We can try a couple of algorithms:
+###### 1. XGBoost Algorithm
+We can use XGBoost algorithm as a multi-classification problem with `researchOutcome` being our target attribute.
+Goal is to minimize the training and validation error.
+
+Reasons for XGBoost:
+- pretty simple to implement.
+- It only needs 2 hyper parameters with 35 optional.
+It's easy to implement and get started quickly.
+
+Note: We can use it for ranking pbs regression pbs too. But here we will use it for classification.
+
+
+###### 2. Linear Learner
+Build a model using the Linear Learner algorithm as a multi-classification problem with `researchOutcome` as the attribute.
+Goal is to maximize the training accuracy (and other metrics).
+
+This algo is very flexible.
+We can train different models and determine which attribute in our data are the most determining factors.
+Another cool feature: it has built-in hyper parameters tuning.
+
 
 
 ##### Notebook
