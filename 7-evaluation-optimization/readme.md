@@ -24,7 +24,7 @@ What we need to do:
  - Create a SM hyper parameter job with different ranges of values for hyperparamters to find the best configuration to minimize the `validation:objective_loss` metric.
  - use the newly optimized hyperparameters to rerun out training job. Compare the results of time to complete and accuracy to the baseline model.
 
- 
+
 
 ### Resources
 
@@ -42,13 +42,4 @@ What we need to do:
 - [lab notebook](ufo-algorithms-lab.ipynb)
 
 ##### Data
-- [ufo dataset](data/ufo_fullset.csv)
-
-sample:
-```
-"reportedTimestamp","eventDate","eventTime","shape","duration","witnesses","weather","firstName","lastName","latitude","longitude","sighting","physicalEvidence","contact","researchOutcome"
-"1977-04-04T04:02:23.340Z","1977-03-31","23:46","circle",4,1,"rain","Ila","Bashirian","47.3294444",-122.5788889,"Y","N","N","explained"
-"1982-11-22T02:06:32.019Z","1982-11-15","22:04","disk",4,1,"partly cloudy","Eriberto","Runolfsson","52.664913",-1.034894,"Y","Y","N","explained"
-"1992-12-07T19:06:52.482Z","1992-12-07","19:01","circle",49,1,"clear","Miller","Watsica","38.9516667",-92.3338889,"Y","N","N","explained"
-"2011-02-24T21:06:34.898Z","2011-02-21","20:56","disk",13,1,"partly cloudy","Clifton","Bechtelar","41.4969444",-71.3677778,"Y","N","N","explained")
-```
+- in `/data` folder (2 files protobuf)
