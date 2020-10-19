@@ -22,6 +22,9 @@ This repo is purely focused on hands-on lab work to pass the AWS certification.
   - passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 questions
    - [practice exam - part 1](exam/cloudguru-practice-exam-part-1.pdf)
    - [practice exam - part 2](exam/cloudguru-practice-exam-part-2.pdf)
+   - [practice exam - review](exam/cloudguru-practice-exam-review.pdf)
+   - [aws sample exam questions](exam/aws-ml-sample-exam-questions-oct2020.pdf)
+   - [additional exam notes](exam/cloudguru-additional-notes-practice-exam.pdf)
 
 ### Resources
  - [A Cloud Guru - AWS Certified ML Specialty 2020](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
