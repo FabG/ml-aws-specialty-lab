@@ -20,6 +20,8 @@ This repo includes course and lab work to pass the AWS ML Specialty.
  - [Algorithms](6-algorithms/readme.md)
  - [Evaluation and Optimization](7-evaluation-optimization/readme.md)
 
+#### 1.3 AWS Course
+ - [AWS - Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
 
 
 ### 2. Practice Exams
@@ -29,6 +31,7 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [cloudguru practice exam - part 1](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-1.pdf)
 - [cloudguru practice exam - part 2](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-2.pdf)
 - [cloudguru practice exam - review](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-review.pdf)
+
 
 #### 2.2 AWS
 - [aws sample exam questions](exam-readiness/aws-exam-readiness/aws-ml-sample-exam-questions-oct2020.pdf)
