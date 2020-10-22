@@ -21,7 +21,20 @@ This repo includes course and lab work to pass the AWS ML Specialty.
  - [Evaluation and Optimization](7-evaluation-optimization/readme.md)
 
 #### 1.3 AWS Course
- - [AWS - Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
+- [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
+ - [aws video](https://www.aws.training/Details/eLearning?id=26599)
+
+
+- [The Elements of Data Science - part 1](aws-course/aws-course-elements-data-science-part1.pdf)
+- [The Elements of Data Science - part 2](aws-course/aws-course-elements-data-science-part2.pdf)
+- [The Elements of Data Science - part 3](aws-course/aws-course-elements-data-science-part3.pdf)
+- [The Elements of Data Science - part 4](aws-course/aws-course-elements-data-science-part4.pdf)
+
+
+#### 1.4 AWS White Papers
+- [Deep Learning on AWS - pdf extracts](aws-whitepaper/aws-white-paper-deep-learning.pdf)
+- [Deep Learning on AWS - full white paper](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
+
 
 
 ### 2. Practice Exams
