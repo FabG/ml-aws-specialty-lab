@@ -1,24 +1,49 @@
 # AWS ML Specialty
 
-This repo includes course and lab work to pass the AWS ML Specialty.
+This repo includes various courses, white paper, snapshots, notes that helped me pass the [AWS ML Specialty certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) in 2020.
+
+This repo is not intended to list every resource that exists out there but should help some of my fellow associates to get started with some good documentation.
+
+A bit more about this ML Specialty certification:  
+*"The AWS Certified Machine Learning - Specialty certification is intended for individuals who perform a development or data science role. It validates a candidate's ability to design, implement, deploy, and maintain machine learning (ML) solutions for given business problems."*
+
+Topics covered during the exam:
+1. **Data Engineering (20%)**: S3 (and VPC Endpoint Gateway), Kinesis (Streams, FireHose, Data Analytics, Video), Glue (Data Catalog and Crawler), Athena, AWS Data Stores (Redshift, RDS/Aurora, DynamoDB, ElasticSearch, ElastiCache), AWS Data Pipelines, AWS Batch, AWS DMS, AWS Step Functions
+2. **Exploratory Data Analysis (24%)**:
+3. **Modeling (36%)**:
+4. **ML Implementations and Operations (20%)**:
+
+![4domains](images/ml-specialty-4-domains.png)
+
 
 ### 1. Course and lab
 
 #### 1.1 CloudGuru Course
- - [1-data-collection](1-data-collection/cloudguru-1-data-collection.pdf)
- - [2-streaming-data-collection](2-streaming-data-collection/cloudguru-2-streaming-data-collection.pdf)
- - [3-data-preparation](3-data-preparation/cloudguru-3-data-preparation.pdf)
- - [4-data-visualization](4-data-visualization/cloudguru-4-data-analysis-visualization.pdf)
- - [5-modeling](5-modeling/cloudguru-5-modeling.pdf)
- - [6-algorithms](6-algorithms/cloudguru-6-algorithms.pdf)
- - [7-evaluation-optimization](7-evaluation-optimization/cloudguru-7-evaluation-and-optimization.pdf)
+The [Cloud Guru - AWS Certified Machine Learning - Specialty 2020 Course](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard) includes over 17 hours of videos, 79 lessons, 8 course quizzes and 1 practice exam. There are also some great labs to get hands on.
 
-#### 1.2 CloudGuru Lab Work
+Below are some of my notes/snapshots from the course:
+ - [1-data-collection](cloudguru-course/1-data-collection/cloudguru-1-data-collection.pdf)
+ - [2-streaming-data-collection](cloudguru-course/2-streaming-data-collection/cloudguru-2-streaming-data-collection.pdf)
+ - [3-data-preparation](cloudguru-course/3-data-preparation/cloudguru-3-data-preparation.pdf)
+ - [4-data-visualization](cloudguru-course/4-data-visualization/cloudguru-4-data-analysis-visualization.pdf)
+ - [5-modeling](cloudguru-course/5-modeling/cloudguru-5-modeling.pdf)
+ - [6-algorithms](cloudguru-course/6-algorithms/cloudguru-6-algorithms.pdf)
+ - [7-evaluation-optimization](cloudguru-course/7-evaluation-optimization/cloudguru-7-evaluation-and-optimization.pdf)
+
+#####  CloudGuru Lab Work
  - [Data Preparation](3-data-preparation/readme.md)
  - [Data Visualization](4-data-visualization/readme.md)
  - [Modeling](5-modeling/readme.md)
  - [Algorithms](6-algorithms/readme.md)
  - [Evaluation and Optimization](7-evaluation-optimization/readme.md)
+
+
+#### 1.2 Udemy Course
+The [Udemy AWS Certified Machine Learning Specialty 2020 - Hands On! Course](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16368832#overview) includes over 9 hours of videos, 114 lessons and 1 practice exam. The full list of course slides is available [here](udemy-course/udemy-ml-specialty-course-all-slides.pdf).
+
+Below are some of my notes/snapshots from the course:
+ - [1-data-engineering (part1)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part1.pdf)
+ - [1-data-engineering (part2)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part2.pdf)
 
 #### 1.3 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
