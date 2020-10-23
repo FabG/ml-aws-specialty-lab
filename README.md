@@ -32,9 +32,21 @@ This repo includes course and lab work to pass the AWS ML Specialty.
 
 
 #### 1.4 AWS White Papers
-- [Deep Learning on AWS - pdf extracts](aws-whitepaper/aws-white-paper-deep-learning.pdf)
-- [Deep Learning on AWS - full white paper](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
+- [Deep Learning on AWS - pdf extract](aws-whitepaper/aws-white-paper-deep-learning.pdf)
+ - [Full white paper](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
+- [AWS White Paper - Machine Learning Foundations - pdf extract](aws-whitepaper/aws-white-paper-machine-learning-foundations.pdf)
+ - [Full white paper](https://d1.awsstatic.com/whitepapers/machine-learning-foundations.pdf)
+- [AWS White Paper - Power Machine Learning at Scale - pdf extract](aws-whitepaper/aws-white-paper-power-machine-learning-at-scale.pdf)
+ - [Full white paper](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf?did=wp_card&trk=wp_card)
+- [AWS White Paper - Streaming Data Solutions on AWS with Amazon Kinesis - pdf extract](aws-whitepaper/aws-white-paper-streaming-data-solutions-kinesis.pdf)
+ - [Full white paper](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
+)
 
+
+#### 1.5 AWS FAQ
+
+- [AWS FAQ - pdf extract](aws-faq/aws-faq.pdf)
+ - [Full FAQ Link](https://aws.amazon.com/sagemaker/faqs/)
 
 
 ### 2. Practice Exams
@@ -60,6 +72,8 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [additional exam notes](exam-readiness/additional-notes-practice-exam.pdf)
 
 ### Resources
- - [A Cloud Guru - AWS Certified ML Specialty 2020](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
- - [A Cloud Guru Lab work](https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning)
- - [AWS Training and Certification](https://www.aws.training/)
+ - [A Cloud Guru - ML Specialty Course](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
+ - [A Cloud guru AWS Certification prep](https://acloud.guru/learn/aws-certification-preparation)
+ - [A Cloud Guru Labs - Github](https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning)
+ - [AWS Training and Certification](https://www.aws.training/) - this is where you can pass the `Exam Readiness` course and quiz
+ - [Amazon SageMaker Developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf)
