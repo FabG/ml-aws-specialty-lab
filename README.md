@@ -44,6 +44,18 @@ The [Udemy AWS Certified Machine Learning Specialty 2020 - Hands On! Course](htt
 Below are some of my notes/snapshots from the course:
  - [1-data-engineering (part1)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part1.pdf)
  - [1-data-engineering (part2)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part2.pdf)
+ Below are some of my notes/snapshots from the course:
+ - [1-data-engineering (part1)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part1.pdf)
+ - [1-data-engineering (part2)](udemy-course/udemy-ml-specialty-course-1-data-engineering-part2.pdf)
+ - [2-exploratory-data-analysis)](udemy-course/udemy-ml-specialty-course-2-exploratory-data-analysis.pdf)
+ - [2-exploratory-data-analysis (lab))](udemy-course/udemy-ml-specialty-course-2-exploratory-data-analysis-lab.pdf)
+ - [3-modeling-concepts](udemy-course/udemy-ml-specialty-course-3-modeling-concepts.pdf)
+ - [3-modeling-ml-services (part1)](udemy-course/udemy-ml-specialty-course-3-ml-services-part1.pdf)
+ - [3-modeling-ml-services (part2)](udemy-course/udemy-ml-specialty-course-3-ml-services-part2.pdf)
+ - [3-modeling-ai-services](udemy-course/udemy-ml-specialty-course-3-ai-services.pdf)
+ - [3-modeling-lab](udemy-course/udemy-ml-specialty-course-3-modeling-lab.pdf)
+
+
 
 #### 1.3 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
