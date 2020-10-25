@@ -9,11 +9,9 @@ A bit more about this ML Specialty certification:
 
 Topics covered during the exam:
 1. **Data Engineering (20%)**: S3 (and VPC Endpoint Gateway), Kinesis (Streams, FireHose, Data Analytics, Video), Glue (Data Catalog and Crawler), Athena, AWS Data Stores (Redshift, RDS/Aurora, DynamoDB, ElasticSearch, ElastiCache), AWS Data Pipelines, AWS Batch, AWS DMS, AWS Step Functions
-2. **Exploratory Data Analysis (24%)**:
-3. **Modeling (36%)**:
-4. **ML Implementations and Operations (20%)**:
-
-![4domains](images/ml-specialty-4-domains.png)
+2. **Exploratory Data Analysis (24%)**: Data Types and Distribution, Time Series, Amazon Athena, Quicksight, Ground Truth, EMR, Spark, Dat binning, transforming, encoding, scaling and shuffling, Dealing with Missing data, outliers, unbalanced data, outliers,  
+3. **Modeling (36%)**: CNN, RNN, Tuning neural networks, Regularization, Gradient, L1 and L2 regularization, Confusion matrix (Precision, Recall, F1, AUC), Ensemble methods (Bagging and Boosting), Amazon Sagemaker, Amazon Algorithms (Linear Learner, XGBoost, Seq2Seq, BlazingText, DeepAR, Object2Vec, ObjectDetection, Image Classification, Semantic Segmentation, RCF, LDA, KNN, K-Means, PCA, Factorization Machine), Amazon AI Services (Comprehend, Translate, Transcribe, Polly, Rekognition, Forecast, Lex, ...)
+4. **ML Implementations and Operations (20%)**: SageMaker Production Variants, Neo, IoT Greengrass, Encryption at Rest and in Transit, VPC, IAM, Logging, Monitoring, Instance Types and Spot Instances, Elasstic Inference, Auto-Scaling, Availability Zones, Inference Pipelines, ...
 
 
 ### 1. Course and lab
@@ -54,6 +52,8 @@ Below are some of my notes/snapshots from the course:
  - [3-modeling-ml-services (part2)](udemy-course/udemy-ml-specialty-course-3-ml-services-part2.pdf)
  - [3-modeling-ai-services](udemy-course/udemy-ml-specialty-course-3-ai-services.pdf)
  - [3-modeling-lab](udemy-course/udemy-ml-specialty-course-3-modeling-lab.pdf)
+ - [4-ml-implementation-operation](udemy-course/udemy-ml-specialty-course-4-ml-implementation-operation.pdf)
+ - [4-ml-implementation-operation (lab)](udemy-course/udemy-ml-specialty-course-4-ml-implementation-operation.pdf)
 
 
 
