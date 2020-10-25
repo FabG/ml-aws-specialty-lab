@@ -27,6 +27,7 @@ Below are some of my notes/snapshots from the course:
  - [5-modeling](cloudguru-course/5-modeling/cloudguru-5-modeling.pdf)
  - [6-algorithms](cloudguru-course/6-algorithms/cloudguru-6-algorithms.pdf)
  - [7-evaluation-optimization](cloudguru-course/7-evaluation-optimization/cloudguru-7-evaluation-and-optimization.pdf)
+ - [course completion](course-completion/cloudguru-ml-specialty-course-completion-10192020.png)
 
 #####  CloudGuru Lab Work
  - [Data Preparation](3-data-preparation/readme.md)
@@ -56,7 +57,7 @@ Below are some of my notes/snapshots from the course:
  - [4-ml-implementation-operation (lab)](udemy-course/udemy-ml-specialty-course-4-ml-implementation-operation.pdf)
  - [exam tips](udemy-course/udemy-ml-specialty-course-exam-tips.pdf)
  - [warmup test - quick assessment](udemy-course/udemy-ml-specialty-course-warmup-test-quick-assessment.pdf)
-
+ - [course completion](course-completion/udemy-aws-ml-specialty-course-completion-10252020.jpg)
 
 
 #### 1.3 AWS Course
