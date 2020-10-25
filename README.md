@@ -54,6 +54,8 @@ Below are some of my notes/snapshots from the course:
  - [3-modeling-lab](udemy-course/udemy-ml-specialty-course-3-modeling-lab.pdf)
  - [4-ml-implementation-operation](udemy-course/udemy-ml-specialty-course-4-ml-implementation-operation.pdf)
  - [4-ml-implementation-operation (lab)](udemy-course/udemy-ml-specialty-course-4-ml-implementation-operation.pdf)
+ - [exam tips](udemy-course/udemy-ml-specialty-course-exam-tips.pdf)
+ - [warmup test - quick assessment](udemy-course/udemy-ml-specialty-course-warmup-test-quick-assessment.pdf)
 
 
 
