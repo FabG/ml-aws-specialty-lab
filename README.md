@@ -113,8 +113,18 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [additional exam notes](exam-readiness/additional-notes-practice-exam.pdf)
 
 ### Resources
+Great set of courses from Andrew Ng in Coursera that I highly recommend:
+ - [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
+ - [Deep Learning Specialization (5 course) - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+Article extracts and notes (pdf):
+ - [Creating a Data Schema for Amazon ML](aws-articles/creating-data-schema-amazon-ml.pdf)
+ - [Securing, Protecting and Managing Data](aws-articles/securing-protecting-managing-data.pdf)
+
+
+Other:
  - [A Cloud Guru - ML Specialty Course](https://acloud.guru/learn/aws-certified-machine-learning-specialty)
  - [A Cloud guru AWS Certification prep](https://acloud.guru/learn/aws-certification-preparation)
  - [A Cloud Guru Labs - Github](https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning)
- - [AWS Training and Certification](https://www.aws.training/) - this is where you can pass the `Exam Readiness` course and quiz
+ - [AWS Training and Certification](https://www.aws.training/) - this is where you can pass the Exam Readiness course and quiz
  - [Amazon SageMaker Developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf)
