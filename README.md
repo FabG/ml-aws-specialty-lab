@@ -59,8 +59,12 @@ Below are some of my notes/snapshots from the course:
  - [warmup test - quick assessment](udemy-course/udemy-ml-specialty-course-warmup-test-quick-assessment.pdf)
  - [course completion](course-completion/udemy-aws-ml-specialty-course-completion-10252020.jpg)
 
-#### 1.3 AWS courses
-  - [1-data-engineering](whizlabs-course/whizlabs-course-1-data-engineering.pdf)
+#### 1.3 WhizLabs courses
+The [Whizlabs Course (and tests)](https://www.whizlabs.com/learn/course/aws-mls-practice-tests) is a great course, with a lot of examples/labs via Jupyter notebook to grasp the materials taught.
+I also found the Tests a lot harder than Udemy and CloudGuru and would recommend passing these tests last.
+
+Below are some of my notes/snapshots from the course:
+ - [1-data-engineering](whizlabs-course/whizlabs-course-1-data-engineering.pdf)
 
 
 #### 1.4 AWS Course
