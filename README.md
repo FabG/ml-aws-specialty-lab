@@ -59,8 +59,11 @@ Below are some of my notes/snapshots from the course:
  - [warmup test - quick assessment](udemy-course/udemy-ml-specialty-course-warmup-test-quick-assessment.pdf)
  - [course completion](course-completion/udemy-aws-ml-specialty-course-completion-10252020.jpg)
 
+#### 1.3 AWS courses
+  - [1-data-engineering](whizlabs-course/whizlabs-course-1-data-engineering.pdf)
 
-#### 1.3 AWS Course
+
+#### 1.4 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
  - [aws video](https://www.aws.training/Details/eLearning?id=26599)
 
@@ -71,7 +74,7 @@ Below are some of my notes/snapshots from the course:
 - [The Elements of Data Science - part 4](aws-course/aws-course-elements-data-science-part4.pdf)
 
 
-#### 1.4 AWS White Papers
+#### 1.5 AWS White Papers
 - [Deep Learning on AWS - pdf extract](aws-whitepaper/aws-white-paper-deep-learning.pdf)
  - [Full white paper](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
 - [AWS White Paper - Machine Learning Foundations - pdf extract](aws-whitepaper/aws-white-paper-machine-learning-foundations.pdf)
@@ -83,7 +86,7 @@ Below are some of my notes/snapshots from the course:
 )
 
 
-#### 1.5 AWS FAQ
+#### 1.6 AWS FAQ
 
 - [AWS FAQ - pdf extract](aws-faq/aws-faq.pdf)
  - [Full FAQ Link](https://aws.amazon.com/sagemaker/faqs/)
