@@ -64,8 +64,9 @@ The [Whizlabs Course (and tests)](https://www.whizlabs.com/learn/course/aws-mls-
 I also found the Tests a lot harder than Udemy and CloudGuru and would recommend passing these tests last.
 
 Below are some of my notes/snapshots from the course:
- - [1-data-engineering](whizlabs-course/whizlabs-course-1-data-engineering.pdf)
-
+ - [1-data-engineering (part1)](whizlabs-course/whizlabs-course-1-data-engineering-part1.pdf)
+ - [1-data-engineering (part2)](whizlabs-course/whizlabs-course-1-data-engineering-part2.pdf)
+ 
 
 #### 1.4 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
