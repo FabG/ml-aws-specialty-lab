@@ -66,7 +66,14 @@ I also found the Tests a lot harder than Udemy and CloudGuru and would recommend
 Below are some of my notes/snapshots from the course:
  - [1-data-engineering (part1)](whizlabs-course/whizlabs-course-1-data-engineering-part1.pdf)
  - [1-data-engineering (part2)](whizlabs-course/whizlabs-course-1-data-engineering-part2.pdf)
- 
+ - [2-data-analysis (part1)](whizlabs-course/whizlabs-course-2-data-analysis-part1.pdf)
+ - [2-data-analysis (part2)](whizlabs-course/whizlabs-course-2-data-analysis-part2.pdf)
+ - [2-data-analysis (part3)](whizlabs-course/whizlabs-course-2-data-analysis-part3.pdf)
+ - [3-modeling (part1)](whizlabs-course/whizlabs-course-3-modeling-part1.pdf)
+  - [lab - xgboost notebook](whizlabs-course/lab/train-xgboost-lab.ipynb)
+ - [3-modeling (part2)](whizlabs-course/whizlabs-course-3-modeling-part2.pdf)
+  - [lab - hyperparameter tuning notebook](whizlabs-course/lab/perform-automatic-model-tuning.ipynb)
+  - [lab - train with tuned parameters notebook](whizlabs-course/lab/train-with-tuned-hyperparameters.ipynb)
 
 #### 1.4 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
