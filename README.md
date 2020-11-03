@@ -75,8 +75,10 @@ Below are some of my notes/snapshots from the course:
   - [lab - hyperparameter tuning notebook](whizlabs-course/lab/perform-automatic-model-tuning.ipynb)
   - [lab - train with tuned parameters notebook](whizlabs-course/lab/train-with-tuned-hyperparameters.ipynb)
  - [4-algorithms (part 1)](whizlabs-course/whizlabs-course-4-algorithms-part1.pdf)
-   - [lab - regression (LinearLearner)](whizlabs-course/lab/regression-lab/linearlearner-regression.ipynb)
-   - [lab - clustering (K-Means)](whizlabs-course/lab/clustering-lab/clustering-kmeans.ipynb)
+  - [lab - regression (LinearLearner) notebook](whizlabs-course/lab/regression-lab/linearlearner-regression.ipynb)
+  - [lab - clustering (K-Means) notebook](whizlabs-course/lab/clustering-lab/clustering-kmeans.ipynb)
+ - [4-algorithms (part 2)](whizlabs-course/whizlabs-course-4-algorithms-part2.pdf)
+  - [lab - classification (XGboost) notebook](whizlabs-course/lab/classification-lab/classification-xgboost.ipynb)
 
 #### 1.4 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
