@@ -79,6 +79,8 @@ Below are some of my notes/snapshots from the course:
   - [lab - clustering (K-Means) notebook](whizlabs-course/lab/clustering-lab/clustering-kmeans.ipynb)
  - [4-algorithms (part 2)](whizlabs-course/whizlabs-course-4-algorithms-part2.pdf)
   - [lab - classification (XGboost) notebook](whizlabs-course/lab/classification-lab/classification-xgboost.ipynb)
+ - [4-algorithms (part 3)](whizlabs-course/whizlabs-course-4-algorithms-part3.pdf)
+  - [lab - text analysis (BlazingText) notebook](whizlabs-course/lab/textanalysis-lab/blazingtext-fasttext.ipynb)
 
 #### 1.4 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
