@@ -136,8 +136,9 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [aws exam readiness - domain4 - ml implementation operations.pdf](exam-readiness/aws-exam-readiness/aws-exam-readiness-domain4-mlimplementation-operations.pdf)
 - [aws exam readiness - study questions](exam-readiness/aws-exam-readiness/aws-exam-readiness-study-questions.pdf)
 - [aws exam readiness - study results](exam-readiness/aws-exam-readiness/aws-exam-readiness-study-questions-results.pdf)
+- [aws practice exam - 20 questions](exam-readiness/aws-exam-readiness/aws-practice-exam-20-questions-11062020.pdf)
 
-#### 2.3 Misc
+#### 2.4 Misc
 - [additional exam notes](exam-readiness/additional-notes-practice-exam.pdf)
 
 ### Resources
