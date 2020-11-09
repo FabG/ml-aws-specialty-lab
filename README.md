@@ -115,7 +115,7 @@ Below are some of my notes/snapshots from the course:
 
 ### 2. Practice Exams
 
-#### 2.1 CloudGuru
+#### 2.1 CloudGuru Practice Exam
 passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 questions
 - [cloudguru practice exam - part 1](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-1.pdf)
 - [cloudguru practice exam - part 2](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-2.pdf)
@@ -126,8 +126,10 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
  - [udemy practice exam 2](exam-readiness/whizlabs-exam-readiness/udemy-exam-readiness/udemy-exam-practice2-11062020.pdf)
  - [udemy practice exam 3](exam-readiness/whizlabs-exam-readiness/udemy-exam-readiness/udemy-exam-practice3-11072020.pdf)
 
+#### 2.3 TestPrep Practice Exam
+  - [testprep practice exam 1](exam-readiness/testprep-exam-readiness/testprep-exam-practice1-11092020.pdf)
 
-#### 2.3 AWS
+#### 2.4 AWS Practice Exam
 - [aws sample exam questions](exam-readiness/aws-exam-readiness/aws-ml-sample-exam-questions-oct2020.pdf)
 - [aws exam readiness - certified ml specialty](exam-readiness/aws-exam-readiness/aws-exam-readiness-certified-ml-specialty.pdf)
 - [aws exam readiness - domain1 - data engineering -](exam-readiness/aws-exam-readiness/aws-exam-readiness-domain1-data-engineering.pdf)
@@ -138,7 +140,7 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [aws exam readiness - study results](exam-readiness/aws-exam-readiness/aws-exam-readiness-study-questions-results.pdf)
 - [aws practice exam - 20 questions](exam-readiness/aws-exam-readiness/aws-practice-exam-20-questions-11062020.pdf)
 
-#### 2.4 Misc
+#### 2.5 Misc
 - [additional exam notes](exam-readiness/additional-notes-practice-exam.pdf)
 
 ### Resources
