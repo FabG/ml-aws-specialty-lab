@@ -128,6 +128,8 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 
 #### 2.3 TestPrep Practice Exam
   - [testprep practice exam 1](exam-readiness/testprep-exam-readiness/testprep-exam-practice1-11092020.pdf)
+  - [testprep practice exam 2](exam-readiness/testprep-exam-readiness/testprep-exam-practice2-11102020.pdf)
+
 
 #### 2.4 AWS Practice Exam
 - [aws sample exam questions](exam-readiness/aws-exam-readiness/aws-ml-sample-exam-questions-oct2020.pdf)
