@@ -120,7 +120,7 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 - [cloudguru practice exam - part 1](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-1.pdf)
 - [cloudguru practice exam - part 2](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-part-2.pdf)
 - [cloudguru practice exam - review](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam-review.pdf)
-- [cloudguru practice 2](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam2.pdf)
+- [cloudguru practice exam 2nd attempt ](exam-readiness/cloudguru-exam-readiness/cloudguru-practice-exam2-11102020.pdf)
 
 #### 2.2 Udemy Practice Exam
  - [udemy practice exam 2](exam-readiness/whizlabs-exam-readiness/udemy-exam-readiness/udemy-exam-practice2-11062020.pdf)
