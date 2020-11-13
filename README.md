@@ -1,10 +1,14 @@
 # AWS ML Specialty
 
-This repo includes various courses, white paper, snapshots, notes that helped me pass the [AWS ML Specialty certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) in 2020.
+This repo includes various jupyter notbooks, notes from courses, white papers that helped me pass the [AWS ML Specialty certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) in 2020. It is not intended to list every resource that exists out there but should help some of my fellow associates to get started with some good documentation.
 
-This repo is not intended to list every resource that exists out there but should help some of my fellow associates to get started with some good documentation.
 
-A bit more about this ML Specialty certification:  
+I personally passed that exam on 11/10/2020 with score of 922 / 1000 or 92.2%. The passing score is 75%.
+I found the exam quite hard and I am glad I invested time (roughly 3 months) to refresh and/or learn on various topics in modeling, operations, monitoring, security and data engineering/analysis.
+
+![ml-specialty-image](images/aws-ml-specialty-badge.png)
+
+### ML Specialty certification overview:  
 *"The AWS Certified Machine Learning - Specialty certification is intended for individuals who perform a development or data science role. It validates a candidate's ability to design, implement, deploy, and maintain machine learning (ML) solutions for given business problems."*
 
 Topics covered during the exam:
@@ -13,10 +17,32 @@ Topics covered during the exam:
 3. **Modeling (36%)**: CNN, RNN, Tuning neural networks, Regularization, Gradient, L1 and L2 regularization, Confusion matrix (Precision, Recall, F1, AUC), Ensemble methods (Bagging and Boosting), Amazon Sagemaker, Amazon Algorithms (Linear Learner, XGBoost, Seq2Seq, BlazingText, DeepAR, Object2Vec, ObjectDetection, Image Classification, Semantic Segmentation, RCF, LDA, KNN, K-Means, PCA, Factorization Machine), Amazon AI Services (Comprehend, Translate, Transcribe, Polly, Rekognition, Forecast, Lex, ...)
 4. **ML Implementations and Operations (20%)**: SageMaker Production Variants, Neo, IoT Greengrass, Encryption at Rest and in Transit, VPC, IAM, Logging, Monitoring, Instance Types and Spot Instances, Elasstic Inference, Auto-Scaling, Availability Zones, Inference Pipelines, ...
 
+#### Additional Info about the exam
+Cost; $300
+180 mn long (3 hours) and ~65 questions
+ - multiple choice
+ - multiple response
+
+Notes:
+- No partial credit for questions (if we get 2 or 3 right out of 5, no credit)
+- Can mark questions an g back to them
+- No points for unanswered
+- Scores: between 100 and 1000
+- Minimum passing score: 750
+- Scaled scoring models are used
+
+![4domains](images/ml-specialty-4-domains.png)
+
+
 
 ### 1. Course and lab
 
-#### 1.1 CloudGuru Course
+#### 1.1 AWS SageMaker Notebooks
+I have tried many SageMaker notebooks in my personal account to really get a good feel for the various algorithms and modeling techniques.
+You can see the list of Sagemaker repos in this other repo: [aws-sagemaker-notebooks](https://github.com/FabG/aws-sagemaker-notebooks)
+
+
+#### 1.2 CloudGuru Course
 The [Cloud Guru - AWS Certified Machine Learning - Specialty 2020 Course](https://learn.acloud.guru/course/aws-certified-machine-learning-specialty/dashboard) includes over 17 hours of videos, 79 lessons, 8 course quizzes and 1 practice exam. There are also some great labs to get hands on.
 
 Below are some of my notes/snapshots from the course:
@@ -37,7 +63,7 @@ Below are some of my notes/snapshots from the course:
  - [Evaluation and Optimization](7-evaluation-optimization/readme.md)
 
 
-#### 1.2 Udemy Course
+#### 1.3 Udemy Course
 The [Udemy AWS Certified Machine Learning Specialty 2020 - Hands On! Course](https://www.udemy.com/course/aws-machine-learning/learn/lecture/16368832#overview) includes over 9 hours of videos, 114 lessons and 1 practice exam. The full list of course slides is available [here](udemy-course/udemy-ml-specialty-course-all-slides.pdf).
 
 Below are some of my notes/snapshots from the course:
@@ -59,7 +85,7 @@ Below are some of my notes/snapshots from the course:
  - [warmup test - quick assessment](udemy-course/udemy-ml-specialty-course-warmup-test-quick-assessment.pdf)
  - [course completion](course-completion/udemy-aws-ml-specialty-course-completion-10252020.jpg)
 
-#### 1.3 WhizLabs courses
+#### 1.4 WhizLabs courses
 The [Whizlabs Course (and tests)](https://www.whizlabs.com/learn/course/aws-mls-practice-tests) is a great course, with a lot of examples/labs via Jupyter notebook to grasp the materials taught.
 I also found the Tests a lot harder than Udemy and CloudGuru and would recommend passing these tests last.
 
@@ -84,7 +110,7 @@ Below are some of my notes/snapshots from the course:
  - [5-implementation-operations](whizlabs-course/whizlabs-course-5-implementation-and-operations.pdf)
 
 
-#### 1.4 AWS Course
+#### 1.5 AWS Course
 - [Linear and Logistic Regression](aws-course/aws-course-linear-logistic-regression.pdf)
  - [aws video](https://www.aws.training/Details/eLearning?id=26599)
 
@@ -95,7 +121,7 @@ Below are some of my notes/snapshots from the course:
 - [The Elements of Data Science - part 4](aws-course/aws-course-elements-data-science-part4.pdf)
 
 
-#### 1.5 AWS White Papers
+#### 1.6 AWS White Papers
 - [Deep Learning on AWS - pdf extract](aws-whitepaper/aws-white-paper-deep-learning.pdf)
  - [Full white paper](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card)
 - [AWS White Paper - Machine Learning Foundations - pdf extract](aws-whitepaper/aws-white-paper-machine-learning-foundations.pdf)
@@ -107,10 +133,14 @@ Below are some of my notes/snapshots from the course:
 )
 
 
-#### 1.6 AWS FAQ
+#### 1.7 AWS FAQ
 
 - [AWS FAQ - pdf extract](aws-faq/aws-faq.pdf)
  - [Full FAQ Link](https://aws.amazon.com/sagemaker/faqs/)
+
+#### 1.8 AWS Machine Learning Cheat Sheet
+ - [My Cheat Sheet for AWS Machine Learning](aws-notes/aws-machine-learning-cheat-sheet-112020.pdf)
+
 
 
 ### 2. Practice Exams
@@ -149,6 +179,8 @@ passed on 10/18/2020: scored 75% and used 1h35 from the 3 hours to cover the 65 
 
 #### 2.6 Misc
 - [additional exam notes](exam-readiness/additional-notes-practice-exam.pdf)
+- [my aws ml specialty certification](certificates/aws-certified-machine-learning-specialty-fabrice-certificate-11222020.pdf) and [score](certificates/aws-certified-machine-learning-specialty-fabrice-score-11222020.pdf)
+
 
 ### Resources
 Great set of courses from Andrew Ng in Coursera that I highly recommend:
@@ -166,3 +198,4 @@ Other:
  - [A Cloud Guru Labs - Github](https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning)
  - [AWS Training and Certification](https://www.aws.training/) - this is where you can pass the Exam Readiness course and quiz
  - [Amazon SageMaker Developer guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf)
+ - [Whizlabs course and several solid practice exams](https://www.whizlabs.com/aws-certified-machine-learning-specialty/)
